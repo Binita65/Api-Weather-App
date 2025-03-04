@@ -1,11 +1,11 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-family: sans-serif;
+    
 }
 body{
     background-color: aqua;
-    background-image: url(gorgeous-clouds-background-with-blue-sky-design_1017-25501.avif);
+    background-image: url(images/gorgeous-clouds-background-with-blue-sky-design_1017-25501.avif);
     background-size: cover;
 }
 .container{
